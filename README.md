@@ -1,1 +1,3 @@
-# sq--challenge
+The data engineering has all the code i used to import the csvs into postgres tables
+I did have help with xpert learning assistant on how to do the foreign key part at the bottom of my creating tables
+I was able to do the data analysis fairly easily, where i had trouble i would just look up how to do something for example how to do dates and specify how to do it between certain years, the hardest part for me was the data engineering for sure.
